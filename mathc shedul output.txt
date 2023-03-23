@@ -1,0 +1,23 @@
+enter number of teams
+5
+t1
+t2
+t3
+t4
+t5
+[t1vst2, t1vst3, t1vst4, t1vst5, t2vst3, t2vst4, t2vst5, t3vst4, t3vst5, t4vst5]
+t1
+win:0
+loose:4
+t2
+win:1
+loose:3
+t3
+win:2
+loose:2
+t4
+win:3
+loose:1
+t5
+win:4
+loose:0
