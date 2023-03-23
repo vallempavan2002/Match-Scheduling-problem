@@ -1,23 +1,14 @@
-enter number of teams
-5
-t1
-t2
-t3
-t4
-t5
-[t1vst2, t1vst3, t1vst4, t1vst5, t2vst3, t2vst4, t2vst5, t3vst4, t3vst5, t4vst5]
-t1
-win:0
-loose:4
-t2
-win:1
-loose:3
-t3
-win:2
-loose:2
-t4
-win:3
-loose:1
-t5
-win:4
-loose:0
+java -cp /tmp/Jm89JpMqlN MatchesProblem
+[India vs Australia, India vs England, India vs Pakistan, India vs Newzealand, Australia vs England, Australia vs Pakistan, Australia vs Newzealand, England vs Pakistan, England vs Newzealand, Pakistan vs Newzealand]
+India
+2
+2
+Australia
+3
+1
+England3
+1
+Pakistan1
+3
+Newzealand1
+3
